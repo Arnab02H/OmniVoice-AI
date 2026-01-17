@@ -72,6 +72,9 @@ cd OmniVoice.AI
 ```
 
 ### 1. Backend Configuration
+> **Note:** The backend architecture is currently under active development. Some features and endpoints may be subject to change as we build out the core infrastructure. Please check the `backend` branch or valid documentation for the latest updates.
+
+
 ```bash
 cd backend
 python -m venv venv
